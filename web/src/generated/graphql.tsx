@@ -20,7 +20,6 @@ export type Mutation = {
   register: User;
 };
 
-
 export type MutationRegisterArgs = {
   input: UserInput;
 };
@@ -29,7 +28,6 @@ export type Query = {
   __typename?: 'Query';
   getByUsername?: Maybe<User>;
 };
-
 
 export type QueryGetByUsernameArgs = {
   username: Scalars['String'];
@@ -42,54 +40,78 @@ export type User = {
   id: Scalars['Int'];
   updatedAt: Scalars['String'];
   username: Scalars['String'];
+  password: Scalars['String'];
 };
 
 export type UserInput = {
   email: Scalars['String'];
   username: Scalars['String'];
+  password: Scalars['String'];
 };
 
 export type RegisterMutationVariables = Exact<{
   input: UserInput;
 }>;
 
-
-export type RegisterMutation = { __typename?: 'Mutation', register: { __typename?: 'User', email: string, username: string, createdAt: string, updatedAt: string } };
+export type RegisterMutation = {
+  __typename?: 'Mutation';
+  register: {
+    __typename?: 'User';
+    email: string;
+    username: string;
+    password: string;
+    createdAt: string;
+    updatedAt: string;
+  };
+};
 
 export type GetByUsernameQueryVariables = Exact<{
   username: Scalars['String'];
 }>;
 
-
-export type GetByUsernameQuery = { __typename?: 'Query', getByUsername?: { __typename?: 'User', id: number, username: string, email: string, createdAt: string, updatedAt: string } | null };
-
+export type GetByUsernameQuery = {
+  __typename?: 'Query';
+  getByUsername?: {
+    __typename?: 'User';
+    id: number;
+    username: string;
+    email: string;
+    // password: string;
+    createdAt: string;
+    updatedAt: string;
+  } | null;
+};
 
 export const RegisterDocument = gql`
-    mutation Register($input: UserInput!) {
-  register(input: $input) {
-    email
-    username
-    createdAt
-    updatedAt
+  mutation Register($input: UserInput!) {
+    register(input: $input) {
+      email
+      username
+      password
+      createdAt
+      updatedAt
+    }
   }
-}
-    `;
+`;
 
 export function useRegisterMutation() {
   return Urql.useMutation<RegisterMutation, RegisterMutationVariables>(RegisterDocument);
-};
-export const GetByUsernameDocument = gql`
-    query GetByUsername($username: String!) {
-  getByUsername(username: $username) {
-    id
-    username
-    email
-    createdAt
-    updatedAt
-  }
 }
-    `;
+export const GetByUsernameDocument = gql`
+  query GetByUsername($username: String!) {
+    getByUsername(username: $username) {
+      id
+      username
+      password
+      email
+      createdAt
+      updatedAt
+    }
+  }
+`;
 
-export function useGetByUsernameQuery(options: Omit<Urql.UseQueryArgs<GetByUsernameQueryVariables>, 'query'>) {
+export function useGetByUsernameQuery(
+  options: Omit<Urql.UseQueryArgs<GetByUsernameQueryVariables>, 'query'>,
+) {
   return Urql.useQuery<GetByUsernameQuery>({ query: GetByUsernameDocument, ...options });
-};
+}

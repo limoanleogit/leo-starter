@@ -21,7 +21,8 @@ describe("user resolvers", () => {
     mutation register($input: UserInput!) {
       register(input: $input){
         email,
-        username
+        username,
+        password
       }
     }
     `;
@@ -29,6 +30,7 @@ describe("user resolvers", () => {
       input: {
         username: data.username,
         email: data.email,
+        password: data.password,
       },
     };
 
@@ -75,6 +77,7 @@ describe("user resolvers", () => {
         getByUsername: {
           email: data.email,
           username: data.username,
+          password: data.password,
         },
       },
     };

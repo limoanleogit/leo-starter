@@ -1,22 +1,20 @@
-import { NextPage } from "next";
-import { Formik, Form } from "formik";
-import { Wrapper } from "../components/Wrapper";
-import { Box, Button } from "@chakra-ui/react";
-import { InputField } from "../components/InputField";
-import { withUrqlClient } from "next-urql";
-import { createUrqlClient } from "../utils/createUrqlClient";
-import { useRegisterMutation } from "../generated/graphql";
-import { useRouter } from "next/router";
+import { NextPage } from 'next';
+import { Formik, Form } from 'formik';
+import { Wrapper } from '../components/Wrapper';
+import { Box, Button } from '@chakra-ui/react';
+import { InputField } from '../components/InputField';
+import { withUrqlClient } from 'next-urql';
+import { createUrqlClient } from '../utils/createUrqlClient';
+import { useRegisterMutation } from '../generated/graphql';
+import { useRouter } from 'next/router';
 
-interface IRegisterProps {}
-
-const Register: NextPage<IRegisterProps> = () => {
+const Register: NextPage = () => {
   const router = useRouter();
   const [, register] = useRegisterMutation();
   return (
     <Wrapper variant="small">
       <Formik
-        initialValues={{ username: "", email: "" }}
+        initialValues={{ username: '', email: '', password: '' }}
         onSubmit={async (values) => {
           const response = await register({ input: values });
           const user = response.data?.register;
@@ -27,25 +25,14 @@ const Register: NextPage<IRegisterProps> = () => {
       >
         {({ isSubmitting }) => (
           <Form>
-            <InputField
-              name="username"
-              placeholder="username"
-              label="Username"
-            />
+            <InputField name="username" placeholder="username" label="Username" />
             <Box mt={4}>
-              <InputField
-                name="email"
-                placeholder="email"
-                label="Email"
-                type="email"
-              />
+              <InputField name="email" placeholder="email" label="Email" type="email" />
             </Box>
-            <Button
-              type="submit"
-              mt={4}
-              isLoading={isSubmitting}
-              colorScheme="blue"
-            >
+            <Box mt={4}>
+              <InputField name="password" placeholder="password" label="Password" type="password" />
+            </Box>
+            <Button type="submit" mt={4} isLoading={isSubmitting} colorScheme="blue">
               register
             </Button>
           </Form>

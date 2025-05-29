@@ -18,6 +18,13 @@ const config = {
     password: process.env.DB_PASSWORD || "",
     port: process.env.DB_PORT || 5432,
   },
+  production: {
+    host: process.env.DB_HOST || "127.0.0.1",
+    db: process.env.DB_DATABASE || "",
+    user: process.env.DB_USER || "",
+    password: process.env.DB_PASSWORD || "",
+    port: process.env.DB_PORT || 5432,
+  },
 };
 
 module.exports = [
@@ -37,5 +44,22 @@ module.exports = [
     port: Number(config.development.port),
     username: config.development.user,
     password: config.development.password,
+  },
+  {
+    name: "production",
+    type: "postgres",
+    database: config.production.db,
+    synchronize: false,
+    logging: false,
+    entities: [path.join(__dirname, "/dist/entities/**/*.js")],
+    migrations: [path.join(__dirname, "/dist/migrations/**/*.js")],
+    cli: {
+      entitiesDir: "dist/entities",
+      migrationsDir: "dist/migrations",
+    },
+    host: config.production.host,
+    port: Number(config.production.port),
+    username: config.production.user,
+    password: config.production.password,
   },
 ];
