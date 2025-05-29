@@ -2,6 +2,7 @@ mutation Register($input: UserInput!) {
   register(input: $input) {
     email
     username
+    password
     createdAt
     updatedAt
   }

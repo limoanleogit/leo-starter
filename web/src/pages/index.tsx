@@ -1,8 +1,8 @@
-import type { NextPage } from "next";
-import NextLink from "next/link";
-import Head from "next/head";
-import Image from "next/image";
-import { Flex, Text, Link, Code, Heading, Box } from "@chakra-ui/react";
+import type { NextPage } from 'next';
+import NextLink from 'next/link';
+import Head from 'next/head';
+import Image from 'next/image';
+import { Flex, Text, Link, Code, Heading, Box } from '@chakra-ui/react';
 
 const Home: NextPage = () => {
   return (
@@ -13,51 +13,24 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Flex
-        direction="column"
-        align="center"
-        justify="center"
-        w="full"
-        flex="1"
-        px="20"
-      >
+      <Flex direction="column" align="center" justify="center" w="full" flex="1" px="20">
         <Heading as="h1" fontSize="6xl" fontWeight="bold">
-          Welcome to{" "}
+          Welcome to{' '}
           <NextLink href="https://nextjs.org" passHref>
             <Link color="blue.600">Next.js!</Link>
           </NextLink>
         </Heading>
 
         <Text mt="3" fontSize="2xl">
-          Get started by editing{" "}
-          <Code
-            p="3"
-            fontSize="lg"
-            bgColor="black.100"
-            borderRadius="md"
-            className="font-mono"
-          >
+          Get started by editing{' '}
+          <Code p="3" fontSize="lg" bgColor="black.100" borderRadius="md" className="font-mono">
             pages/index.tsx
           </Code>
         </Text>
 
-        <Flex
-          wrap="wrap"
-          align="center"
-          justify="space-around"
-          maxW={["full", "4xl"]}
-          mt="6"
-        >
+        <Flex wrap="wrap" align="center" justify="space-around" maxW={['full', '4xl']} mt="6">
           <NextLink href="https://nextjs.org/docs" passHref>
-            <Link
-              p="6"
-              mt="6"
-              w="96"
-              border="1px"
-              rounded="xl"
-              color="blue.600"
-              textAlign="left"
-            >
+            <Link p="6" mt="6" w="96" border="1px" rounded="xl" color="blue.600" textAlign="left">
               <Heading fontSize="2xl" fontWeight="bold">
                 Documentation &rarr;
               </Heading>
@@ -68,15 +41,7 @@ const Home: NextPage = () => {
           </NextLink>
 
           <NextLink href="https://nextjs.org/learn" passHref>
-            <Link
-              p="6"
-              mt="6"
-              w="96"
-              border="1px"
-              rounded="xl"
-              color="blue.600"
-              textAlign="left"
-            >
+            <Link p="6" mt="6" w="96" border="1px" rounded="xl" color="blue.600" textAlign="left">
               <Heading as="h3" fontSize="2xl" fontWeight="bold">
                 Learn &rarr;
               </Heading>
@@ -86,19 +51,8 @@ const Home: NextPage = () => {
             </Link>
           </NextLink>
 
-          <NextLink
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            passHref
-          >
-            <Link
-              p="6"
-              mt="6"
-              w="96"
-              border="1px"
-              rounded="xl"
-              color="blue.600"
-              textAlign="left"
-            >
+          <NextLink href="https://github.com/vercel/next.js/tree/master/examples" passHref>
+            <Link p="6" mt="6" w="96" border="1px" rounded="xl" color="blue.600" textAlign="left">
               <Heading as="h3" fontSize="2xl" fontWeight="bold">
                 Examples &rarr;
               </Heading>
@@ -112,15 +66,7 @@ const Home: NextPage = () => {
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             passHref
           >
-            <Link
-              p="6"
-              mt="6"
-              w="96"
-              border="1px"
-              rounded="xl"
-              color="blue.600"
-              textAlign="left"
-            >
+            <Link p="6" mt="6" w="96" border="1px" rounded="xl" color="blue.600" textAlign="left">
               <Heading as="h3" fontSize="2xl" fontWeight="bold">
                 Deploy &rarr;
               </Heading>
@@ -132,14 +78,7 @@ const Home: NextPage = () => {
         </Flex>
       </Flex>
 
-      <Flex
-        align="center"
-        justify="center"
-        w="full"
-        h="24"
-        borderTop="1px"
-        className="border-t"
-      >
+      <Flex align="center" justify="center" w="full" h="24" borderTop="1px" className="border-t">
         <NextLink
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           passHref
@@ -148,13 +87,8 @@ const Home: NextPage = () => {
             <Flex align="center" justify="center">
               <Box>Powered by </Box>
               <Box ml="2">
-                {" "}
-                <Image
-                  src="/vercel.svg"
-                  alt="Vercel Logo"
-                  width={72}
-                  height={16}
-                />
+                {' '}
+                <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
               </Box>
             </Flex>
           </Link>

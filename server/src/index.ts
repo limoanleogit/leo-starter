@@ -29,7 +29,10 @@ const main = async () => {
 
   //set up cors with express cors middleware
   app.use(
-    cors({ origin: [config.frontend_url, config.studio_apollo_graphql_url] })
+    cors({
+      origin: [config.frontend_url, config.studio_apollo_graphql_url],
+      credentials: true
+    })
   );
 
   const apolloServer = new ApolloServer({
@@ -37,7 +40,11 @@ const main = async () => {
   });
 
   await apolloServer.start();
-  apolloServer.applyMiddleware({ app, cors: false });
+  apolloServer.applyMiddleware({ 
+    app, 
+    cors: false,
+    bodyParserConfig: { limit: '50mb' }
+  });
 
   app.listen(config.port, () => {
     console.log(`server started on port ${config.port}`);

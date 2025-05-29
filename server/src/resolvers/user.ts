@@ -13,6 +13,6 @@ export class userResolver {
   async getByUsername(
     @Arg("username") username: string
   ): Promise<User | undefined> {
-    return User.findOne({ where: { username } });
+    return await User.findOne({ where: { username } });
   }
 }
