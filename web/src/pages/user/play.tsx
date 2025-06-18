@@ -170,10 +170,7 @@ const Play: NextPage = () => {
             Did {currentQuestion.acteur} star in {currentQuestion.film}?
           </Heading>
         </VStack>
-        <Formik
-          initialValues={{ answers: {} as Answer }}
-          onSubmit={(values) => console.log(values)} // Formik not used for submission here
-        >
+        <Formik initialValues={{ answers: {} as Answer }} onSubmit={() => {}}>
           {({ isSubmitting }) => (
             <Form style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
               <HStack spacing={4}>

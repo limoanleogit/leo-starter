@@ -50,8 +50,7 @@ export class QuestionResolver{
                 }
             }
         } catch (error) {
-            console.log("Erreur :", error);
-            // throw new Error("Une erreur s'est produite lors du retours des informations")
+            throw new Error("Une erreur s'est produite lors du retours des informations")
         }
         return await Questions.find();
     }

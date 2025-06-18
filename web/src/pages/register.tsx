@@ -56,7 +56,7 @@ const Register: NextPage = () => {
                 router.push('/login');
               }
             } catch (error) {
-              console.log(error);
+              throw new Error("Une erreur s'est produite lors de l'enregistrement");
             }
           }}
         >
