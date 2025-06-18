@@ -1,0 +1,2169 @@
+yarn run v1.22.22
+$ tsc -w
+c00:16:23 - Starting compilation in watch mode...
+
+
+00:16:27 - Found 0 errors. Watching for file changes.
+c00:19:40 - File change detected. Starting incremental compilation...
+
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+yarn run v1.22.19
+$ tsc -w
+c1:04:22 AM - Starting compilation in watch mode...
+
+
+1:05:54 AM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c10:20:42 PM - Starting compilation in watch mode...
+
+
+10:21:24 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c10:43:12 PM - Starting compilation in watch mode...
+
+
+10:43:53 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c11:02:21 PM - Starting compilation in watch mode...
+
+
+11:03:00 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c11:07:22 PM - Starting compilation in watch mode...
+
+yarn run v1.22.19
+$ tsc -w
+c11:15:47 PM - Starting compilation in watch mode...
+
+
+11:16:31 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c11:21:09 PM - Starting compilation in watch mode...
+
+
+11:21:51 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c11:23:28 PM - Starting compilation in watch mode...
+
+yarn run v1.22.19
+$ tsc -w
+c11:30:45 PM - Starting compilation in watch mode...
+
+
+11:31:41 PM - Found 0 errors. Watching for file changes.
+c11:50:06 PM - File change detected. Starting incremental compilation...
+
+src/types.ts(9,8): error TS1146: Declaration expected.
+
+11:50:07 PM - Found 1 error. Watching for file changes.
+c11:50:08 PM - File change detected. Starting incremental compilation...
+
+src/types.ts(9,9): error TS1146: Declaration expected.
+
+11:50:08 PM - Found 1 error. Watching for file changes.
+c11:50:12 PM - File change detected. Starting incremental compilation...
+
+src/types.ts(9,13): error TS1146: Declaration expected.
+
+11:50:12 PM - Found 1 error. Watching for file changes.
+c11:50:14 PM - File change detected. Starting incremental compilation...
+
+src/types.ts(9,11): error TS1109: Expression expected.
+src/types.ts(9,13): error TS1146: Declaration expected.
+
+11:50:14 PM - Found 2 errors. Watching for file changes.
+c11:50:20 PM - File change detected. Starting incremental compilation...
+
+src/types.ts(9,11): error TS1109: Expression expected.
+src/types.ts(9,14): error TS1146: Declaration expected.
+
+11:50:20 PM - Found 2 errors. Watching for file changes.
+c11:50:23 PM - File change detected. Starting incremental compilation...
+
+src/types.ts(9,11): error TS1109: Expression expected.
+src/types.ts(9,14): error TS1109: Expression expected.
+src/types.ts(9,15): error TS1146: Declaration expected.
+
+11:50:23 PM - Found 3 errors. Watching for file changes.
+c11:50:25 PM - File change detected. Starting incremental compilation...
+
+src/types.ts(9,16): error TS1109: Expression expected.
+src/types.ts(9,17): error TS1146: Declaration expected.
+
+11:50:26 PM - Found 2 errors. Watching for file changes.
+c11:50:31 PM - File change detected. Starting incremental compilation...
+
+src/types.ts(9,23): error TS1146: Declaration expected.
+
+11:50:31 PM - Found 1 error. Watching for file changes.
+c11:50:34 PM - File change detected. Starting incremental compilation...
+
+src/types.ts(9,23): error TS1146: Declaration expected.
+
+11:50:34 PM - Found 1 error. Watching for file changes.
+c11:50:43 PM - File change detected. Starting incremental compilation...
+
+src/types.ts(9,23): error TS1146: Declaration expected.
+
+11:50:43 PM - Found 1 error. Watching for file changes.
+c11:50:47 PM - File change detected. Starting incremental compilation...
+
+src/types.ts(10,3): error TS7008: Member 'pass' implicitly has an 'any' type.
+
+11:50:47 PM - Found 1 error. Watching for file changes.
+c11:50:53 PM - File change detected. Starting incremental compilation...
+
+src/types.ts(10,3): error TS7008: Member 'password' implicitly has an 'any' type.
+
+11:50:53 PM - Found 1 error. Watching for file changes.
+c11:50:57 PM - File change detected. Starting incremental compilation...
+
+src/types.ts(10,3): error TS7008: Member 'password' implicitly has an 'any' type.
+src/types.ts(10,11): error TS1264: Declarations with definite assignment assertions must also have type annotations.
+
+11:50:58 PM - Found 2 errors. Watching for file changes.
+c11:51:00 PM - File change detected. Starting incremental compilation...
+
+
+11:51:01 PM - Found 0 errors. Watching for file changes.
+c11:51:24 PM - File change detected. Starting incremental compilation...
+
+
+11:51:24 PM - Found 0 errors. Watching for file changes.
+c11:51:26 PM - File change detected. Starting incremental compilation...
+
+
+11:51:27 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c5:16:11 PM - Starting compilation in watch mode...
+
+
+5:17:03 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c8:10:45 PM - Starting compilation in watch mode...
+
+
+8:11:33 PM - Found 0 errors. Watching for file changes.
+c8:52:17 PM - File change detected. Starting incremental compilation...
+
+
+8:52:18 PM - Found 0 errors. Watching for file changes.
+c8:52:27 PM - File change detected. Starting incremental compilation...
+
+
+8:52:27 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c9:08:53 PM - Starting compilation in watch mode...
+
+
+9:09:43 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c9:17:56 PM - Starting compilation in watch mode...
+
+
+9:18:42 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c9:37:04 PM - Starting compilation in watch mode...
+
+
+9:37:49 PM - Found 0 errors. Watching for file changes.
+c10:11:39 PM - File change detected. Starting incremental compilation...
+
+
+10:11:40 PM - Found 0 errors. Watching for file changes.
+c10:14:00 PM - File change detected. Starting incremental compilation...
+
+src/types.ts(10,21): error TS1434: Unexpected keyword or identifier.
+src/types.ts(11,1): error TS1003: Identifier expected.
+
+10:14:00 PM - Found 2 errors. Watching for file changes.
+c10:14:02 PM - File change detected. Starting incremental compilation...
+
+
+10:14:03 PM - Found 0 errors. Watching for file changes.
+c10:14:06 PM - File change detected. Starting incremental compilation...
+
+
+10:14:06 PM - Found 0 errors. Watching for file changes.
+c10:14:26 PM - File change detected. Starting incremental compilation...
+
+src/types.ts(10,21): error TS1434: Unexpected keyword or identifier.
+src/types.ts(11,1): error TS1003: Identifier expected.
+
+10:14:26 PM - Found 2 errors. Watching for file changes.
+c10:14:27 PM - File change detected. Starting incremental compilation...
+
+
+10:14:28 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c10:25:11 PM - Starting compilation in watch mode...
+
+
+10:25:58 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c10:36:37 PM - Starting compilation in watch mode...
+
+
+10:37:23 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c11:14:54 PM - Starting compilation in watch mode...
+
+
+11:15:42 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c11:21:45 PM - Starting compilation in watch mode...
+
+
+11:22:30 PM - Found 0 errors. Watching for file changes.
+c11:38:48 PM - File change detected. Starting incremental compilation...
+
+src/resolvers/user.ts(16,17): error TS1005: ';' expected.
+
+11:38:49 PM - Found 1 error. Watching for file changes.
+c11:38:50 PM - File change detected. Starting incremental compilation...
+
+
+11:38:50 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c11:00:54 AM - Starting compilation in watch mode...
+
+
+11:01:54 AM - Found 0 errors. Watching for file changes.
+c12:25:40 PM - File change detected. Starting incremental compilation...
+
+
+12:25:41 PM - Found 0 errors. Watching for file changes.
+c12:25:42 PM - File change detected. Starting incremental compilation...
+
+
+12:25:43 PM - Found 0 errors. Watching for file changes.
+c12:25:43 PM - File change detected. Starting incremental compilation...
+
+
+12:25:44 PM - Found 0 errors. Watching for file changes.
+c12:25:45 PM - File change detected. Starting incremental compilation...
+
+
+12:25:45 PM - Found 0 errors. Watching for file changes.
+c1:18:15 PM - File change detected. Starting incremental compilation...
+
+src/constants.ts(2,25): error TS2307: Cannot find module 'path' or its corresponding type declarations.
+src/constants.ts(5,17): error TS2304: Cannot find name '__dirname'.
+src/constants.ts(5,39): error TS2591: Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node` and then add 'node' to the types field in your tsconfig.
+src/constants.ts(9,8): error TS2591: Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node` and then add 'node' to the types field in your tsconfig.
+src/constants.ts(10,18): error TS2591: Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node` and then add 'node' to the types field in your tsconfig.
+src/constants.ts(11,16): error TS2591: Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node` and then add 'node' to the types field in your tsconfig.
+src/constants.ts(12,17): error TS2591: Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node` and then add 'node' to the types field in your tsconfig.
+src/constants.ts(13,30): error TS2591: Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node` and then add 'node' to the types field in your tsconfig.
+src/constants.ts(14,24): error TS2591: Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node` and then add 'node' to the types field in your tsconfig.
+src/constants.ts(15,23): error TS2591: Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node` and then add 'node' to the types field in your tsconfig.
+src/index.ts(2,21): error TS7016: Could not find a declaration file for module 'express'. '/app/node_modules/express/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/express` if it exists or add a new declaration (.d.ts) file containing `declare module 'express';`
+src/index.ts(3,18): error TS7016: Could not find a declaration file for module 'cors'. '/app/node_modules/cors/lib/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/cors` if it exists or add a new declaration (.d.ts) file containing `declare module 'cors';`
+src/index.ts(4,30): error TS2307: Cannot find module 'apollo-server-express' or its corresponding type declarations.
+src/utils/database.ts(6,16): error TS2591: Cannot find name 'process'. Do you need to install type definitions for node? Try `npm i --save-dev @types/node` and then add 'node' to the types field in your tsconfig.
+
+1:18:16 PM - Found 14 errors. Watching for file changes.
+c1:18:18 PM - File change detected. Starting incremental compilation...
+
+error TS2688: Cannot find type definition file for 'jest'.
+  The file is in the program because:
+    Entry point of type library 'jest' specified in compilerOptions
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+1:18:23 PM - Found 2 errors. Watching for file changes.
+c1:18:24 PM - File change detected. Starting incremental compilation...
+
+error TS2318: Cannot find global type 'Array'.
+error TS2318: Cannot find global type 'Boolean'.
+error TS2318: Cannot find global type 'Function'.
+error TS2318: Cannot find global type 'IArguments'.
+error TS2318: Cannot find global type 'Number'.
+error TS2318: Cannot find global type 'Object'.
+error TS2318: Cannot find global type 'RegExp'.
+error TS2318: Cannot find global type 'String'.
+error TS2688: Cannot find type definition file for 'jest'.
+  The file is in the program because:
+    Entry point of type library 'jest' specified in compilerOptions
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+error TS6053: File '/app/node_modules/typescript/lib/lib.dom.d.ts' not found.
+  The file is in the program because:
+    Library 'lib.dom.d.ts' specified in compilerOptions
+error TS6053: File '/app/node_modules/typescript/lib/lib.es2015.d.ts' not found.
+  The file is in the program because:
+    Library 'lib.es2015.d.ts' specified in compilerOptions
+error TS6053: File '/app/node_modules/typescript/lib/lib.es2017.d.ts' not found.
+  The file is in the program because:
+    Library 'lib.es2017.d.ts' specified in compilerOptions
+error TS6053: File '/app/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts' not found.
+  The file is in the program because:
+    Library 'lib.es2018.asynciterable.d.ts' specified in compilerOptions
+
+1:18:25 PM - Found 14 errors. Watching for file changes.
+c1:19:17 PM - File change detected. Starting incremental compilation...
+
+node_modules/@types/node/http.d.ts(228,47): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(228,71): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(229,5): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(230,46): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(231,46): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(238,43): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(245,49): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(251,38): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(258,40): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(264,51): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(268,47): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(268,60): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(268,69): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(268,71): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(269,5): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(269,7): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(269,107): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(275,47): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(275,71): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(276,5): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(276,7): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(276,15): error TS1434: Unexpected keyword or identifier.
+node_modules/@types/node/http.d.ts(277,37): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(277,73): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(277,74): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(278,28): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(278,62): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(278,80): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(278,116): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(278,117): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(293,26): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(293,45): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(293,57): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(293,58): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(294,28): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(294,40): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(294,41): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(367,26): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(367,44): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(367,70): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(367,71): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(368,26): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(368,45): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(368,57): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(368,58): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(369,26): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(369,50): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(369,76): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(369,77): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(370,26): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(370,45): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(370,67): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(370,68): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(371,26): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(371,49): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(371,61): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(371,62): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(372,26): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(372,53): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(372,89): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(372,90): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(372,96): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(373,26): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(373,56): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(373,92): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(373,93): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(373,99): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(374,26): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(374,51): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(374,96): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(374,97): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(376,18): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(377,21): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(377,96): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(378,10): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(379,26): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(379,47): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(379,83): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(379,84): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(379,90): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(381,18): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(382,21): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(382,96): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(383,10): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(384,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(384,36): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(384,42): error TS1011: An element access expression should take an argument.
+node_modules/@types/node/http.d.ts(384,44): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(385,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(385,29): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(386,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(386,41): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(386,50): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(387,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(387,33): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(387,41): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(388,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(388,33): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(390,18): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(391,16): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(391,39): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(392,16): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(392,41): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(392,72): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(393,10): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(393,19): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(395,18): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(396,16): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(396,39): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(397,16): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(397,41): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(397,72): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(398,10): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(398,19): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(399,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(399,39): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(399,54): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(399,70): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(400,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(400,35): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(400,58): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(400,66): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(400,87): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(400,96): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(402,18): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(403,16): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(403,39): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(404,16): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(404,41): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(404,72): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(405,10): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(405,19): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(406,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(406,35): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(406,58): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(406,66): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(406,87): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(406,96): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(407,17): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(407,35): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(407,61): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(407,62): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(408,17): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(408,36): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(408,48): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(408,49): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(409,17): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(409,41): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(409,67): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(409,68): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(410,17): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(410,36): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(410,58): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(410,59): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(411,17): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(411,40): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(411,52): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(411,53): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(412,17): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(412,44): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(412,80): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(412,81): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(412,87): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(413,17): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(413,47): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(413,83): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(413,84): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(413,90): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(414,17): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(414,42): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(414,87): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(414,88): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(415,17): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(415,38): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(415,113): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(415,114): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(416,17): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(416,38): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(416,74): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(416,75): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(416,81): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(417,17): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(417,38): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(417,113): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(417,114): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(418,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(418,37): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(418,63): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(418,64): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(419,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(419,38): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(419,50): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(419,51): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(420,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(420,43): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(420,69): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(420,70): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(421,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(421,38): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(421,60): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(421,61): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(422,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(422,42): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(422,54): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(422,55): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(423,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(423,46): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(423,82): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(423,83): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(423,89): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(424,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(424,49): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(424,85): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(424,86): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(424,92): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(425,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(425,44): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(425,89): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(425,90): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(427,18): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(428,21): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(428,96): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(429,10): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(430,19): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(430,40): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(430,76): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(430,77): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(430,83): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(432,18): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(433,21): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(433,96): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(434,10): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(435,30): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(435,48): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(435,74): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(435,75): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(436,30): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(436,49): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(436,61): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(436,62): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(437,30): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(437,54): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(437,80): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(437,81): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(438,30): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(438,49): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(438,71): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(438,72): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(439,30): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(439,53): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(439,65): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(439,66): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(440,30): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(440,57): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(440,93): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(440,94): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(440,100): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(441,30): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(441,60): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(441,96): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(441,97): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(441,103): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(442,30): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(442,55): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(442,100): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(442,101): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(444,18): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(445,21): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(445,96): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(446,10): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(447,30): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(447,51): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(447,87): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(447,88): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(447,94): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(449,18): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(450,21): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(450,96): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(451,10): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(452,34): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(452,52): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(452,78): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(452,79): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(453,34): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(453,53): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(453,65): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(453,66): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(454,34): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(454,58): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(454,84): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(454,85): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(455,34): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(455,53): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(455,75): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(455,76): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(456,34): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(456,57): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(456,69): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(456,70): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(457,34): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(457,61): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(457,97): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(457,98): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(457,104): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(458,34): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(458,64): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(458,100): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(458,101): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(458,107): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(459,34): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(459,59): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(459,104): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(459,105): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(461,18): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(462,21): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(462,96): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(463,10): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(464,34): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(464,55): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(464,91): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(464,92): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(464,98): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(466,18): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(467,21): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(467,96): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(468,10): error TS1005: ';' expected.
+node_modules/@types/node/http.d.ts(1290,47): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(1290,71): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(1291,5): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(1291,23): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(1291,59): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(1291,60): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(1291,87): error TS1005: '(' expected.
+node_modules/@types/node/http.d.ts(1294,47): error TS1005: ',' expected.
+node_modules/@types/node/http.d.ts(1294,71): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(1295,5): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(1296,16): error TS1005: ')' expected.
+node_modules/@types/node/http.d.ts(1296,50): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(1297,25): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(1297,61): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(1298,5): error TS1109: Expression expected.
+node_modules/@types/node/http.d.ts(1298,6): error TS1128: Declaration or statement expected.
+node_modules/@types/node/http.d.ts(1298,33): error TS1005: '(' expected.
+node_modules/@types/node/http2.d.ts(1052,52): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1052,81): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1053,22): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1053,56): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1054,23): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1054,86): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1055,5): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1055,7): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1055,15): error TS1434: Unexpected keyword or identifier.
+node_modules/@types/node/http2.d.ts(1056,9): error TS1128: Declaration or statement expected.
+node_modules/@types/node/http2.d.ts(1057,13): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1058,13): error TS1005: '(' expected.
+node_modules/@types/node/http2.d.ts(1058,90): error TS1005: '(' expected.
+node_modules/@types/node/http2.d.ts(1097,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1097,43): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1097,99): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1097,105): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1143,23): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1150,9): error TS1005: '(' expected.
+node_modules/@types/node/http2.d.ts(1150,10): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1150,16): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1152,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1153,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1156,22): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1157,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1159,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1160,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1160,103): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1161,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1162,26): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1162,53): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1162,79): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1162,80): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1164,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1165,20): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1165,98): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1166,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1167,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1168,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1168,37): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1168,65): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1168,93): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1168,102): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1169,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1169,45): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1169,51): error TS1011: An element access expression should take an argument.
+node_modules/@types/node/http2.d.ts(1169,53): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1171,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1172,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1175,22): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1176,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1178,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1179,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1179,103): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1180,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1181,17): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1181,44): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1181,70): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1181,71): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1183,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1184,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1187,22): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1188,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1190,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1191,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1191,103): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1192,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1193,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1193,46): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1193,72): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1193,73): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1195,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1196,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1199,22): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1200,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1202,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1203,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1203,103): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1204,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1205,30): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1205,57): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1205,83): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1205,84): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1207,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1208,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1211,22): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1212,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1214,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1215,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1215,103): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1216,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1217,34): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1217,61): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1217,87): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1217,88): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1245,52): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1245,81): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1246,22): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1246,56): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1247,23): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1247,86): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1248,5): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1248,7): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1248,15): error TS1434: Unexpected keyword or identifier.
+node_modules/@types/node/http2.d.ts(1249,30): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1250,29): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1251,28): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1252,29): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1257,52): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1257,81): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1258,22): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1258,56): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1259,23): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1259,86): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1260,5): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1260,7): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1260,93): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1260,110): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1263,52): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1263,81): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1264,22): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1264,56): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1265,23): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1265,86): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1266,5): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1266,7): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1269,52): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1269,81): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1270,22): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1270,56): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1271,23): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1271,86): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1272,5): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1272,7): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1273,41): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1274,26): error TS1011: An element access expression should take an argument.
+node_modules/@types/node/http2.d.ts(1274,39): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1286,52): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1286,81): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1287,22): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1287,56): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1288,23): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1288,86): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1289,5): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1289,7): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1289,45): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1291,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1292,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1292,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1293,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1295,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1296,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1296,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1297,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1299,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1300,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1300,118): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1301,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1302,26): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1302,52): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1302,74): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1302,75): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1304,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1305,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1305,103): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1306,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1307,26): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1307,47): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1307,59): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1307,60): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1308,26): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1308,53): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1308,79): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1308,80): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1310,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1311,20): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1311,48): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1312,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1312,50): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1313,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1314,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1314,39): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1314,67): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1314,77): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1314,106): error TS1005: '(' expected.
+node_modules/@types/node/http2.d.ts(1314,107): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1314,116): error TS1005: ')' expected.
+node_modules/@types/node/http2.d.ts(1316,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1317,20): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1317,98): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1318,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1319,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1319,40): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1319,48): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1320,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1320,37): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1320,65): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1320,93): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1320,102): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1321,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1321,31): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1322,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1322,45): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1322,51): error TS1011: An element access expression should take an argument.
+node_modules/@types/node/http2.d.ts(1322,53): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1324,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1325,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1325,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1326,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1328,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1329,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1329,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1330,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1332,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1333,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1333,118): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1334,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1335,17): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1335,43): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1335,65): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1335,66): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1337,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1338,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1338,103): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1339,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1340,17): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1340,38): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1340,50): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1340,51): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1341,17): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1341,44): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1341,70): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1341,71): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1343,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1344,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1344,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1345,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1347,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1348,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1348,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1349,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1351,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1352,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1352,118): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1353,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1354,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1354,45): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1354,67): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1354,68): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1356,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1357,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1357,103): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1358,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1359,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1359,40): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1359,52): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1359,53): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1360,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1360,46): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1360,72): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1360,73): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1362,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1363,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1363,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1364,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1366,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1367,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1367,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1368,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1370,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1371,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1371,118): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1372,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1373,30): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1373,56): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1373,78): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1373,79): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1375,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1376,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1376,103): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1377,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1378,30): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1378,51): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1378,63): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1378,64): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1379,30): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1379,57): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1379,83): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1379,84): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1381,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1382,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1382,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1383,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1385,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1386,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1386,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1387,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1389,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1390,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1390,118): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1391,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1392,34): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1392,60): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1392,82): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1392,83): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1394,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1395,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1395,103): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1396,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1397,34): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1397,55): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1397,67): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1397,68): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1398,34): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1398,61): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1398,87): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1398,88): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1402,52): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1402,81): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1403,22): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1403,56): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1404,23): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1404,86): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1405,5): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1405,7): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1405,45): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1407,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1408,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1408,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1409,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1411,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1412,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1412,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1413,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1415,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1416,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1416,118): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1417,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1418,26): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1418,52): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1418,74): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1418,75): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1420,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1421,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1421,103): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1422,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1423,26): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1423,47): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1423,59): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1423,60): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1424,26): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1424,55): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1424,88): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1424,89): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1425,26): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1425,53): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1425,79): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1425,80): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1427,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1428,20): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1428,48): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1429,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1429,50): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1430,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1431,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1431,39): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1431,67): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1431,77): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1431,106): error TS1005: '(' expected.
+node_modules/@types/node/http2.d.ts(1431,107): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1431,116): error TS1005: ')' expected.
+node_modules/@types/node/http2.d.ts(1433,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1434,20): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1434,98): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1435,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1436,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1436,40): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1436,48): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1437,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1437,37): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1437,65): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1437,93): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1437,102): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1438,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1438,31): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1439,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1439,46): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1439,62): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1440,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1440,45): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1440,51): error TS1011: An element access expression should take an argument.
+node_modules/@types/node/http2.d.ts(1440,53): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1442,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1443,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1443,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1444,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1446,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1447,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1447,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1448,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1450,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1451,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1451,118): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1452,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1453,17): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1453,43): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1453,65): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1453,66): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1455,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1456,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1456,103): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1457,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1458,17): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1458,38): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1458,50): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1458,51): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1459,17): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1459,46): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1459,79): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1459,80): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1460,17): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1460,44): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1460,70): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1460,71): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1462,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1463,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1463,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1464,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1466,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1467,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1467,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1468,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1470,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1471,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1471,118): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1472,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1473,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1473,45): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1473,67): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1473,68): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1475,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1476,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1476,103): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1477,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1478,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1478,40): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1478,52): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1478,53): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1479,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1479,48): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1479,81): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1479,82): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1480,19): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1480,46): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1480,72): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1480,73): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1482,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1483,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1483,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1484,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1486,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1487,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1487,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1488,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1490,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1491,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1491,118): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1492,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1493,30): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1493,56): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1493,78): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1493,79): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1495,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1496,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1496,103): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1497,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1498,30): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1498,51): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1498,63): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1498,64): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1499,30): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1499,59): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1499,92): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1499,93): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1500,30): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1500,57): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1500,83): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1500,84): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1502,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1503,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1503,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1504,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1506,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1507,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1507,107): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1508,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1510,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1511,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1511,118): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1512,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1513,34): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1513,60): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1513,82): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1513,83): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1515,18): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1516,21): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1516,103): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1517,10): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1518,34): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1518,55): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1518,67): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1518,68): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1519,34): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1519,63): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1519,96): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1519,97): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(1520,34): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1520,61): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(1520,87): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(1520,88): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(2412,52): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(2412,81): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(2413,22): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(2413,56): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(2414,23): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(2414,86): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(2415,5): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(2416,16): error TS1005: ')' expected.
+node_modules/@types/node/http2.d.ts(2416,89): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(2417,26): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(2417,112): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(2418,5): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(2418,6): error TS1128: Declaration or statement expected.
+node_modules/@types/node/http2.d.ts(2418,77): error TS1005: '(' expected.
+node_modules/@types/node/http2.d.ts(2452,52): error TS1005: ',' expected.
+node_modules/@types/node/http2.d.ts(2452,81): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(2453,22): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(2453,56): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(2454,23): error TS1005: ';' expected.
+node_modules/@types/node/http2.d.ts(2454,86): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(2455,5): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(2456,16): error TS1005: ')' expected.
+node_modules/@types/node/http2.d.ts(2456,95): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(2457,26): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(2457,112): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(2458,5): error TS1109: Expression expected.
+node_modules/@types/node/http2.d.ts(2458,6): error TS1128: Declaration or statement expected.
+node_modules/@types/node/http2.d.ts(2458,83): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(13,52): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(13,65): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(13,74): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(13,76): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(14,5): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(14,7): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(14,90): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(37,52): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(37,76): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(38,5): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(38,7): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(45,52): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(45,76): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(46,5): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(46,7): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(46,26): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(47,37): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(47,78): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(47,79): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(49,20): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(49,54): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(50,29): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(50,70): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(52,26): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(52,44): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(52,70): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(52,71): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(53,26): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(53,46): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(53,96): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(53,97): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(55,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(56,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(56,117): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(57,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(59,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(60,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(64,22): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(65,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(67,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(68,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(68,103): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(69,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(70,26): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(70,56): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(70,92): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(70,93): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(71,26): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(71,54): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(71,102): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(71,103): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(72,26): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(72,45): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(72,57): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(72,58): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(73,26): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(73,50): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(73,76): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(73,77): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(74,26): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(74,45): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(74,67): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(74,68): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(75,26): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(75,49): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(75,61): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(75,62): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(76,26): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(76,53): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(76,94): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(76,95): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(76,101): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(77,26): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(77,56): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(77,97): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(77,98): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(77,104): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(78,26): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(78,51): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(78,89): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(78,90): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(80,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(81,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(81,89): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(82,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(83,26): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(83,47): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(83,88): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(83,89): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(83,95): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(85,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(86,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(86,89): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(87,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(88,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(88,36): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(88,42): error TS1011: An element access expression should take an argument.
+node_modules/@types/node/https.d.ts(88,44): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(89,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(89,35): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(89,54): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(89,70): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(91,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(92,22): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(93,24): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(94,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(94,57): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(95,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(97,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(98,24): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(99,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(100,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(100,64): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(101,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(102,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(102,47): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(102,65): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(102,108): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(102,109): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(103,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(103,50): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(103,66): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(104,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(104,42): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(104,60): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(104,76): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(105,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(105,29): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(106,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(106,41): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(106,50): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(107,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(107,33): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(107,41): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(108,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(108,33): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(110,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(111,16): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(111,39): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(112,16): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(112,40): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(113,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(115,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(116,16): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(116,39): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(117,16): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(117,40): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(118,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(119,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(119,39): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(119,54): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(119,63): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(120,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(120,35): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(120,58): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(120,66): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(120,80): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(120,89): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(122,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(123,16): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(123,39): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(124,16): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(124,40): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(125,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(126,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(126,35): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(126,58): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(126,66): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(126,80): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(126,89): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(127,17): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(127,35): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(127,61): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(127,62): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(128,17): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(128,37): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(128,87): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(128,88): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(130,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(131,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(131,117): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(132,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(134,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(135,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(139,22): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(140,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(142,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(143,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(143,103): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(144,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(145,17): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(145,47): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(145,83): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(145,84): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(146,17): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(146,45): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(146,93): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(146,94): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(147,17): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(147,36): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(147,48): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(147,49): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(148,17): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(148,41): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(148,67): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(148,68): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(149,17): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(149,36): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(149,58): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(149,59): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(150,17): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(150,40): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(150,52): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(150,53): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(151,17): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(151,44): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(151,85): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(151,86): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(151,92): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(152,17): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(152,47): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(152,88): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(152,89): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(152,95): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(153,17): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(153,42): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(153,80): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(153,81): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(154,17): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(154,38): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(154,106): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(154,107): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(155,17): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(155,38): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(155,79): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(155,80): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(155,86): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(156,17): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(156,38): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(156,106): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(156,107): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(157,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(157,37): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(157,63): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(157,64): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(158,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(158,39): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(158,89): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(158,90): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(160,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(161,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(161,117): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(162,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(164,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(165,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(169,22): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(170,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(172,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(173,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(173,103): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(174,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(175,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(175,49): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(175,85): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(175,86): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(176,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(176,47): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(176,95): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(176,96): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(177,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(177,38): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(177,50): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(177,51): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(178,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(178,43): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(178,69): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(178,70): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(179,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(179,38): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(179,60): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(179,61): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(180,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(180,42): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(180,54): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(180,55): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(181,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(181,46): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(181,87): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(181,88): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(181,94): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(182,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(182,49): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(182,90): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(182,91): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(182,97): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(183,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(183,44): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(183,82): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(183,83): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(184,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(184,40): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(184,108): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(184,109): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(185,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(185,40): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(185,81): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(185,82): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(185,88): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(186,19): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(186,40): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(186,108): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(186,109): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(187,30): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(187,48): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(187,74): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(187,75): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(188,30): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(188,50): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(188,100): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(188,101): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(190,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(191,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(191,117): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(192,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(194,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(195,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(199,22): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(200,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(202,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(203,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(203,103): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(204,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(205,30): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(205,60): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(205,96): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(205,97): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(206,30): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(206,58): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(206,106): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(206,107): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(207,30): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(207,49): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(207,61): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(207,62): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(208,30): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(208,54): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(208,80): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(208,81): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(209,30): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(209,49): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(209,71): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(209,72): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(210,30): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(210,53): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(210,65): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(210,66): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(211,30): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(211,57): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(211,98): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(211,99): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(211,105): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(212,30): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(212,60): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(212,101): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(212,102): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(212,108): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(213,30): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(213,55): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(213,93): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(213,94): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(215,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(216,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(216,89): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(217,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(218,30): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(218,51): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(218,92): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(218,93): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(218,99): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(220,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(221,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(221,89): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(222,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(223,34): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(223,52): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(223,78): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(223,79): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(224,34): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(224,54): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(224,104): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(224,105): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(226,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(227,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(227,117): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(228,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(230,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(231,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(235,22): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(236,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(238,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(239,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(239,103): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(240,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(241,34): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(241,64): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(241,100): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(241,101): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(242,34): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(242,62): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(242,110): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(242,111): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(243,34): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(243,53): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(243,65): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(243,66): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(244,34): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(244,58): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(244,84): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(244,85): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(245,34): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(245,53): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(245,75): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(245,76): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(246,34): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(246,57): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(246,69): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(246,70): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(247,34): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(247,61): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(247,102): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(247,103): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(247,109): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(248,34): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(248,64): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(248,105): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(248,106): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(248,112): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(249,34): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(249,59): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(249,97): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(249,98): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(251,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(252,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(252,89): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(253,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(254,34): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(254,55): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(254,96): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(254,97): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(254,103): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(256,18): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(257,21): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(257,89): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(258,10): error TS1005: ';' expected.
+node_modules/@types/node/https.d.ts(299,52): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(299,76): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(300,5): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(300,23): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(300,64): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(300,65): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(300,92): error TS1005: '(' expected.
+node_modules/@types/node/https.d.ts(303,52): error TS1005: ',' expected.
+node_modules/@types/node/https.d.ts(303,76): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(304,5): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(305,16): error TS1005: ')' expected.
+node_modules/@types/node/https.d.ts(305,50): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(306,25): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(306,66): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(307,5): error TS1109: Expression expected.
+node_modules/@types/node/https.d.ts(307,6): error TS1128: Declaration or statement expected.
+node_modules/@types/node/https.d.ts(307,33): error TS1005: '(' expected.
+
+1:20:15 PM - Found 1362 errors. Watching for file changes.
+c1:20:15 PM - File change detected. Starting incremental compilation...
+
+yarn run v1.22.19
+$ tsc -w
+c4:08:07 PM - Starting compilation in watch mode...
+
+
+4:09:15 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c6:43:22 PM - Starting compilation in watch mode...
+
+
+6:44:25 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c7:00:58 PM - Starting compilation in watch mode...
+
+
+7:01:54 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c8:47:48 PM - Starting compilation in watch mode...
+
+
+8:48:43 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c9:34:14 PM - Starting compilation in watch mode...
+
+
+9:35:10 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c9:47:48 PM - Starting compilation in watch mode...
+
+
+9:49:14 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c8:46:05 PM - Starting compilation in watch mode...
+
+
+8:47:16 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c8:53:43 PM - Starting compilation in watch mode...
+
+
+8:54:36 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c9:14:44 PM - Starting compilation in watch mode...
+
+
+9:15:53 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c9:34:43 PM - Starting compilation in watch mode...
+
+
+9:35:36 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c10:08:50 PM - Starting compilation in watch mode...
+
+
+10:10:27 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c6:28:13 PM - Starting compilation in watch mode...
+
+
+6:29:19 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c6:31:23 PM - Starting compilation in watch mode...
+
+
+6:32:28 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+c6:37:09 PM - Starting compilation in watch mode...
+
+yarn run v1.22.19
+$ tsc -w
+c7:24:31 PM - Starting compilation in watch mode...
+
+
+7:26:10 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H1:06:58 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+1:07:28 PM - Found 1 error. Watching for file changes.
+[2J[3J[H2:00:04 PM - File change detected. Starting incremental compilation...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+2:00:05 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+yarn run v1.22.19
+$ tsc -w
+yarn run v1.22.19
+$ tsc -w
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+yarn run v1.22.19
+$ tsc -w
+yarn run v1.22.19
+$ tsc -w
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H2:57:13 PM - Starting compilation in watch mode...
+
+
+2:57:42 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H3:10:08 PM - Starting compilation in watch mode...
+
+
+3:10:38 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H3:15:16 PM - Starting compilation in watch mode...
+
+
+3:15:47 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H3:34:52 PM - Starting compilation in watch mode...
+
+
+3:35:19 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H7:41:56 AM - Starting compilation in watch mode...
+
+
+7:42:25 AM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H8:03:27 AM - Starting compilation in watch mode...
+
+
+8:03:53 AM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H5:32:00 AM - Starting compilation in watch mode...
+
+
+5:32:33 AM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H7:45:25 AM - Starting compilation in watch mode...
+
+
+7:45:56 AM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H7:55:42 AM - Starting compilation in watch mode...
+
+
+7:56:11 AM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H7:59:35 AM - Starting compilation in watch mode...
+
+
+8:00:01 AM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H8:05:47 AM - Starting compilation in watch mode...
+
+
+8:06:09 AM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H8:08:54 AM - Starting compilation in watch mode...
+
+
+8:09:16 AM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H9:14:56 AM - Starting compilation in watch mode...
+
+
+9:15:29 AM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H9:34:14 AM - Starting compilation in watch mode...
+
+
+9:34:39 AM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H11:43:10 AM - Starting compilation in watch mode...
+
+
+11:43:37 AM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H6:54:43 PM - Starting compilation in watch mode...
+
+src/resolvers/user.ts(15,9): error TS2353: Object literal may only specify known properties, and 'errors' does not exist in type 'User'.
+src/resolvers/user.ts(26,9): error TS2353: Object literal may only specify known properties, and 'errors' does not exist in type 'User'.
+src/resolvers/user.ts(37,9): error TS2353: Object literal may only specify known properties, and 'errors' does not exist in type 'User'.
+src/resolvers/user.ts(58,11): error TS2353: Object literal may only specify known properties, and 'errors' does not exist in type 'User'.
+src/types.ts(3,1): error TS6133: 'User' is declared but its value is never read.
+
+6:55:27 PM - Found 5 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H10:40:44 PM - Starting compilation in watch mode...
+
+src/resolvers/user.ts(15,9): error TS2353: Object literal may only specify known properties, and 'errors' does not exist in type 'User'.
+src/resolvers/user.ts(26,9): error TS2353: Object literal may only specify known properties, and 'errors' does not exist in type 'User'.
+src/resolvers/user.ts(37,9): error TS2353: Object literal may only specify known properties, and 'errors' does not exist in type 'User'.
+src/resolvers/user.ts(58,11): error TS2353: Object literal may only specify known properties, and 'errors' does not exist in type 'User'.
+
+10:41:10 PM - Found 4 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H10:43:26 PM - Starting compilation in watch mode...
+
+src/resolvers/user.ts(15,9): error TS2353: Object literal may only specify known properties, and 'errors' does not exist in type 'User'.
+src/resolvers/user.ts(26,9): error TS2353: Object literal may only specify known properties, and 'errors' does not exist in type 'User'.
+src/resolvers/user.ts(37,9): error TS2353: Object literal may only specify known properties, and 'errors' does not exist in type 'User'.
+src/resolvers/user.ts(58,11): error TS2353: Object literal may only specify known properties, and 'errors' does not exist in type 'User'.
+
+10:43:52 PM - Found 4 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H10:50:56 PM - Starting compilation in watch mode...
+
+
+10:51:22 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H11:00:36 AM - Starting compilation in watch mode...
+
+
+11:01:20 AM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H11:20:42 AM - Starting compilation in watch mode...
+
+
+11:21:08 AM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H11:27:59 AM - Starting compilation in watch mode...
+
+
+11:28:34 AM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H12:28:11 PM - Starting compilation in watch mode...
+
+
+12:28:55 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H4:49:18 PM - Starting compilation in watch mode...
+
+
+4:49:48 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H9:31:11 PM - Starting compilation in watch mode...
+
+
+9:31:50 PM - Found 0 errors. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H11:20:25 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+11:21:00 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H12:13:53 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+12:14:22 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H12:39:28 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+12:39:56 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H2:00:14 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+2:01:02 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H3:06:51 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+3:07:37 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H4:07:09 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+4:07:43 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H4:52:57 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+4:53:31 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H5:02:13 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+5:02:40 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H6:59:01 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+6:59:36 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H7:12:25 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+7:13:17 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H7:19:00 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+7:19:30 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H7:31:28 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+7:31:58 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H7:52:03 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+7:52:33 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H8:08:59 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+8:09:30 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H8:18:57 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+8:19:27 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H8:26:21 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+8:27:00 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H8:30:51 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+8:31:21 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H8:42:10 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+8:42:50 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H8:55:47 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+8:56:21 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H11:02:33 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+11:03:15 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H11:14:28 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+11:15:02 PM - Found 1 error. Watching for file changes.
+yarn run v1.22.19
+$ tsc -w
+[2J[3J[H5:25:52 PM - Starting compilation in watch mode...
+
+error TS2688: Cannot find type definition file for 'reflect-metadata'.
+  The file is in the program because:
+    Entry point of type library 'reflect-metadata' specified in compilerOptions
+
+5:26:45 PM - Found 1 error. Watching for file changes.
