@@ -1,0 +1,8 @@
+query GetUsername($userId: String!) {
+  getUsername(userId: $userId) {
+    username
+    id
+    firstname
+    lastname
+  }
+}

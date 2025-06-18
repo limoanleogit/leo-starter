@@ -1,0 +1,3 @@
+mutation CorrectQuestions($answers: [QuestionInput!]!) {
+  correctQuestions(answers: $answers)
+}

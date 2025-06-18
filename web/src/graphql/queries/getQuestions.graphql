@@ -1,0 +1,12 @@
+query GetQuestion {
+  getQuestion {
+    id
+    questionhash
+    film
+    filmImage
+    acteur
+    acteurImage
+    createdAt
+    updatedAt
+  }
+}

@@ -44,6 +44,7 @@ module.exports = [
     port: Number(config.development.port),
     username: config.development.user,
     password: config.development.password,
+    synchronize: true,
   },
   {
     name: "production",

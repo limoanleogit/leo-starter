@@ -1,38 +1,62 @@
 import { NextPage } from 'next';
 import { withUrqlClient } from 'next-urql';
 import { useRouter } from 'next/router';
-import { useGetByUsernameQuery } from '../../generated/graphql';
+import { useGetUsernameQuery } from '../../generated/graphql';
 import { createUrqlClient } from '../../utils/createUrqlClient';
-import { Flex } from '@chakra-ui/react';
+import { Box, Button, Flex, Wrap, WrapItem } from '@chakra-ui/react';
+import Layout from '../../components/Layout';
+import { useEffect } from 'react';
 
 const User: NextPage = () => {
   const router = useRouter();
-  const username = router.query.username as string;
-  const [{ data, error, fetching }] = useGetByUsernameQuery({
-    variables: { username },
+  const userId = sessionStorage.getItem('userId') || '';
+  const [{ data, error, fetching }] = useGetUsernameQuery({
+    variables: {
+      userId: userId,
+    },
   });
-  const email = data?.getByUsername?.email;
 
-  if (fetching) {
-    return (
-      <Flex alignItems="center" h="100vh" justifyContent="center">
-        loading...
-      </Flex>
-    );
-  } else if (error) {
-    return (
-      <Flex alignItems="center" h="100vh" justifyContent="center">
-        {' '}
-        an error occurered when fetching
-      </Flex>
-    );
-  } else {
-    return (
-      <Flex alignItems="center" h="100vh" justifyContent="center" fontWeight="bold" fontSize="5xl">
-        Welcome {email}
-      </Flex>
-    );
-  }
+  useEffect(() => {
+    if (error || !data?.getUsername) {
+      <Box>
+        <Flex alignItems="center" h="100vh" justifyContent="center">
+          {error ? 'An error occurred when fetching user' : 'User not found or not authenticated'}
+        </Flex>
+      </Box>;
+      // logout();
+    }
+  }, [error, router]);
+
+  const logout = () => {
+    sessionStorage.removeItem('token');
+    setTimeout(() => {
+      router.push('/login');
+    }, 1000);
+  };
+
+  if (fetching) return <Box>Loading...</Box>;
+
+  return (
+    <Layout>
+      <Box>
+        <Flex alignItems="center" h="50vh" justifyContent="center" fontWeight="bold" fontSize="5xl">
+          Welcome {data?.getUsername?.firstname} {data?.getUsername?.lastname}
+        </Flex>
+        <Wrap>
+          <WrapItem>
+            <Button colorScheme="blue" onClick={() => router.push('play')}>
+              Play
+            </Button>
+          </WrapItem>
+          <WrapItem>
+            <Button colorScheme="red" onClick={logout}>
+              Logout
+            </Button>
+          </WrapItem>
+        </Wrap>
+      </Box>
+    </Layout>
+  );
 };
 
 export default withUrqlClient(createUrqlClient, { ssr: true })(User);
