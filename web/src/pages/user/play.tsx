@@ -79,21 +79,6 @@ const Play: NextPage = () => {
     ];
     setAnswersData([...answersData, ...answers]);
     setCurrentQuestionIndex(currentQuestionIndex + 1);
-
-    // const result = await correctQuestions({ answers })
-    // const isCorrect = result.data?.correctQuestions[0] === true;
-    // if(isCorrect) {
-    //     setScore(score + 1);
-    //     setCurrentQuestionIndex(currentQuestionIndex + 1);
-    //     if (score + 1 > highScore) {
-    //         setHighScore(score + 1)
-    //     }
-    // } else {
-    //     setGameState('gameOver')
-    // }
-    // if(currentQuestionIndex +1 >= data.getQuestion.length) {
-    //     setGameState('gameOver')
-    // }
   };
 
   const replayGame = () => {
